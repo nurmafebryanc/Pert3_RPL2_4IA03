@@ -1,0 +1,1 @@
+Pada praktikum RPL2 dibuat untuk memenuhi tujuan pembelajaran dalam memahami konsep Model View Controller (MVC) pada bahasa pemrograman Java. Sistem ini mengelola data mahasiswa dengan fitur dasar seperti menambahkan, menampilkan, mengubah, dan menghapus data (CRUD).
